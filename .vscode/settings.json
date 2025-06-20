@@ -1,0 +1,15 @@
+{
+	"cSpell.words": [
+		"assertj",
+		"PBOTOS",
+		"pbtos",
+		"PKZI",
+		"telegramdipbot",
+		"ЕИСУП",
+		"ПБОТОС",
+		"ПКЗИ"
+	],
+	"java.configuration.updateBuildConfiguration": "automatic",
+	"java.debug.settings.onBuildFailureProceed": true,
+	"java.compile.nullAnalysis.mode": "disabled"
+}
