@@ -4,7 +4,7 @@
 
 ## 🛠️ Используемые технологии
 
-- Java 21+
+- Java 24+
 - Spring Boot
 - Spring Data JPA
 - MySQL
