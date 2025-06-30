@@ -138,16 +138,16 @@ public class Keyboard implements KeyboardInterface {
         List<List<InlineKeyboardButton>> keyboard = new ArrayList<>();
 
         List<InlineKeyboardButton> row1 = new ArrayList<>();
-        row1.add(InlineKeyboardButton.builder().text("📑 Часто задаваемые вопросы").callbackData("button21").build());
+        row1.add(InlineKeyboardButton.builder().text("📑 Часто задаваемые вопросы").callbackData("button31").build());
 
         List<InlineKeyboardButton> row2 = new ArrayList<>();
-        row2.add(InlineKeyboardButton.builder().text("🏢 Кадровые администраторы").callbackData("button22").build());
+        row2.add(InlineKeyboardButton.builder().text("🏢 Кадровые администраторы").callbackData("button32").build());
 
         List<InlineKeyboardButton> row3 = new ArrayList<>();
-        row3.add(InlineKeyboardButton.builder().text("📃 Шаблоны заявлений").callbackData("button22").build());
+        row3.add(InlineKeyboardButton.builder().text("📃 Шаблоны заявлений").callbackData("button33").build());
 
         List<InlineKeyboardButton> row4 = new ArrayList<>();
-        row4.add(InlineKeyboardButton.builder().text("📎 Инструкции и методички").callbackData("button22").build());
+        row4.add(InlineKeyboardButton.builder().text("📎 Инструкции и методички").callbackData("button34").build());
 
         List<InlineKeyboardButton> row5 = new ArrayList<>();
         row5.add(InlineKeyboardButton.builder().text("⬅️ Назад в меню").callbackData("buttonMainMenu").build());
@@ -177,7 +177,7 @@ public class Keyboard implements KeyboardInterface {
         row3.add(InlineKeyboardButton.builder().text("📧 Email-адреса").callbackData("button43").build());
 
         List<InlineKeyboardButton> row4 = new ArrayList<>();
-        row4.add(InlineKeyboardButton.builder().text("👤 Руководители подразделений").callbackData("button45").build());
+        row4.add(InlineKeyboardButton.builder().text("👤 Руководители подразделений").callbackData("button44").build());
 
         List<InlineKeyboardButton> row5 = new ArrayList<>();
         row5.add(InlineKeyboardButton.builder().text("⬅️ Назад в меню").callbackData("buttonMainMenu").build());
